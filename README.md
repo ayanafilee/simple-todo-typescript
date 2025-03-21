@@ -23,13 +23,11 @@ A simple and elegant todo list application built with TypeScript, HTML, and CSS.
 ## 📸 Screenshots
 
 ### ➕ Adding a Task
-![Image](https://github.com/user-attachments/assets/f6d55707-fe4e-4b08-b0b7-0ac7ef18bb38)
+![Image](https://github.com/user-attachments/assets/2dc374e3-29cf-45d5-9b73-89d64209f603)
 
 ### 📋 Todo List Interface
 ![Image](https://github.com/user-attachments/assets/a3b30260-64cb-4776-a1e2-1dbdb69c63ae) 
 
-## 🚀 Live Demo  
-Check out the live version of the app: [Todo List Live](https://ayanafilee.github.io/Todo-List-App/)
 
 ## ⚙️ Installation
 
