@@ -26,7 +26,7 @@ A simple and elegant todo list application built with TypeScript, HTML, and CSS.
 ![Image](https://github.com/user-attachments/assets/2dc374e3-29cf-45d5-9b73-89d64209f603)
 
 ### 📋 Todo List Interface
-![Image](https://github.com/user-attachments/assets/a3b30260-64cb-4776-a1e2-1dbdb69c63ae) 
+![Image](https://github.com/user-attachments/assets/ee1ecf4a-5758-4019-8644-373f475ad027)
 
 
 ## ⚙️ Installation
