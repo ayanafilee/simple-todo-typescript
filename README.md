@@ -1,6 +1,3 @@
-Here is your complete README file, including the license section:  
-
-```markdown
 # 📝 Todo List App
 
 A simple and elegant todo list application built with TypeScript, HTML, and CSS. This app allows users to add and remove tasks while keeping the UI dynamic and responsive.
@@ -88,4 +85,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE  
 SOFTWARE.
-```
